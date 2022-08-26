@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "qus": "What is an FAQ page?",
+    "ans": "An FAQ page is an online resource that lists common questions surrounding a product or service and then provides concise, informative, and direct answers to these questions. Most pages have “Frequently Asked Questions” or “FAQ” as the title, though some use titles such as “Common Questions” or even simply “How Can We Help You?”"
+  },
+  {
+    "id": 2,
+    "qus": "What makes a good FAQ page?",
+    "ans": "The most important element of a good FAQ page is how directly and concisely it answers customers’ or prospects’ questions. Beyond that, there are several tips and tricks to make getting answers to questions an inspiring experience for your customers."
+  },
+  {
+    "id": 3,
+    "qus": "Where can you put an FAQ page?",
+    "ans": "You can put an FAQ page inside your help center, on a checkout or product page, or anywhere where your customers might get stuck. You can also deploy a chatbot to answer FAQs anywhere on your website or mobile app. "
+  }
+]
